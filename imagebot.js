@@ -1,4 +1,3 @@
-var fs    = require("fs");
 var client = require('google-images');
 
 module.exports = function (req, res, next) {
